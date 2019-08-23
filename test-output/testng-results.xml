@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9344" started-at="2019-08-22T05:33:12Z" finished-at="2019-08-22T05:33:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9344" started-at="2019-08-22T05:33:12Z" finished-at="2019-08-22T05:33:22Z">
+      <class name="com.automationinfotech.Log4j.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationinfotech.Log4j.LoginTest@7f6473]" name="setup" is-config="true" duration-ms="8804" started-at="2019-08-22T11:03:12Z" finished-at="2019-08-22T11:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.automationinfotech.Log4j.LoginTest@7f6473]" name="titleTest" duration-ms="27" started-at="2019-08-22T11:03:21Z" finished-at="2019-08-22T11:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationinfotech.Log4j.LoginTest@7f6473]" name="tearDown" is-config="true" duration-ms="502" started-at="2019-08-22T11:03:21Z" finished-at="2019-08-22T11:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationinfotech.Log4j.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+2019-08-22 11:03:12,801  INFO [main] LoginTest:27 - *******************************************Staring Execeution****************************
+2019-08-22 11:03:18,165  INFO [main] LoginTest:30 - Launching Browser
+2019-08-22 11:03:21,609  INFO [main] LoginTest:43 - ***********************************Test Case Start**************************************
+2019-08-22 11:03:21,621  INFO [main] LoginTest:46 - Title is:Welcome: Mercury Tours
+2019-08-22 11:03:21,621  WARN [main] LoginTest:47 - Please check the actual and expected title
+2019-08-22 11:03:21,622 FATAL [main] LoginTest:48 - This is fatal Message
+2019-08-22 11:03:21,625  INFO [main] LoginTest:51 - ***********************************Test Case Completed**************************************
+2019-08-22 11:03:21,627  INFO [main] LoginTest:58 - *********************************Closing Browser**************
+2019-08-22 11:03:22,128  INFO [main] LoginTest:60 - ***************************Browser Closed********************
