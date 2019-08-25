@@ -41,8 +41,6 @@ public class LoginTest {
 	{
 		
 		log.info("***********************************Test Case Start**************************************");
-		
-		System.out.println(" Test has begun");
 		String Title=driver.getTitle();
 		System.out.println(Title);
 		log.info("Title is:"+Title);
@@ -59,7 +57,6 @@ public class LoginTest {
 	{
 		log.info("*********************************Closing Browser**************");
 		driver.close();
-		System.out.println("Driver closed successsfully");
 		log.info("***************************Browser Closed********************");
 	}
 
